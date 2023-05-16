@@ -33,3 +33,6 @@ This project was built using Java as the programming language, and Java Servlets
 #### Accessibility
 1. The system must be accessible via laptop or any mobile device.
 2. The system must be accessible by authorized users.
+
+## Database Schema
+![Project view](https://github.com/mukarugwiro/Covid19-Registration-System-Frontend/blob/main/database_diagram.png)

@@ -1,8 +1,12 @@
-# Covid19-Registration-System-Frontend
-Covid19 Vaccination Registration System_Frontend 
+# Covid19-Registration-System
+
+## SCOPE
+
 My project is about COVID-19 VACCINATION registration system. It will be registering 
 patients with all the required information and validate the type of vaccination they have received 
 and provide cards.
+
+This project was built using Java as the programming language, and Java Servlets and JSPs. PostgreSql was used as the database management system.
 
 ## Requirements
 

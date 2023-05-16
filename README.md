@@ -47,3 +47,5 @@ A patient is also able to view their vaccination dozes by using a designated lin
 ## Technical Documentation
 The project was implemented using JAVAEE, using Servlets and JSPs. The database used was PostgreSQL. 
 The project is made of two apps. A Main application that works as the front-end and a backend application.
+The link to the backend app: https://github.com/mukarugwiro/Covid19-Registration-System-RestAPI
+

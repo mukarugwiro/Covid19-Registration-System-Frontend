@@ -36,3 +36,14 @@ This project was built using Java as the programming language, and Java Servlets
 
 ## Database Schema
 ![Project view](https://github.com/mukarugwiro/Covid19-Registration-System-Frontend/blob/main/database_diagram.png)
+
+## User Documentation
+To use this application, you log in using the username and password.
+The main user of the application is the doctor who vaccinates the patient and register dozes taken by the patient.
+The doctor also can update a patients dozes by searching them first using and new dozes.
+
+A patient is also able to view their vaccination dozes by using a designated link and use their national id to get their vaccination information.
+
+## Technical Documentation
+The project was implemented using JAVAEE, using Servlets and JSPs. The database used was PostgreSQL. 
+The project is made of two apps. A Main application that works as the front-end and a backend application.
